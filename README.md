@@ -53,7 +53,7 @@
 
 <br>
 
-### 
+### Estatísticas
 
 <div align="center">
 <img src="./assets/skull.gif" width="200"/>
@@ -76,15 +76,9 @@
 
 <div align="center">
 
-<a href="https://github.com/DevMurilo0/EntreTempos">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMurilo0&repo=EntreTempos&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF4D4D&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/DevMurilo0/portal_erempaf">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMurilo0&repo=portal_erempaf&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF4D4D&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/DevMurilo0/enemplanner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMurilo0&repo=enemplanner&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF4D4D&text_color=c9d1d9" />
-</a>
+[![EntreTempos](https://img.shields.io/badge/EntreTempos-FF4D4D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevMurilo0/EntreTempos)
+[![portal_erempaf](https://img.shields.io/badge/portal__erempaf-FF4D4D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevMurilo0/portal_erempaf)
+[![enemplanner](https://img.shields.io/badge/enemplanner-FF4D4D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevMurilo0/enemplanner)
 
 </div>
 
