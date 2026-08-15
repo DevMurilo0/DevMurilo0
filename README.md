@@ -53,7 +53,7 @@
 
 <br>
 
-### Estatísticas
+### 
 
 <div align="center">
 <img src="./assets/skull.gif" width="200"/>
