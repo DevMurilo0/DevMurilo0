@@ -53,7 +53,7 @@
 
 <br>
 
-### Estatísticas
+### 
 
 ```
 
