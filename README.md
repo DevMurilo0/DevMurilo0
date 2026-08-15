@@ -56,12 +56,8 @@
 ### Estatísticas
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center"><img src="./assets/skull.gif" width="200"/></td>
-    <td align="center"><img src="./assets/pyramid.gif" width="200"/></td>
-  </tr>
-</table>
+<img src="./assets/skull.gif" width="200"/>
+<img src="./assets/pyramid.gif" width="200"/>
 </div>
 
 <br>
