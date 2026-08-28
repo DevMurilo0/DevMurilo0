@@ -63,13 +63,13 @@
 <br>
 
 ### Atividade recente
-
+<!--
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevMurilo0&theme=react-dark&hide_border=true&bg_color=0d1117&color=FF4D4D&line=FF4D4D&point=FFFFFF&area=true&area_color=FF4D4D" width="100%"/>
 
 </div>
-
+-->
 <br>
 
 ### Repositórios em destaque
