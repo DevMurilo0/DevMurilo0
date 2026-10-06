@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" fill="none">
+  <rect width="1280" height="320" fill="#050505"/>
+  <rect x="40" y="40" width="1200" height="240" rx="20" fill="#0B0B0B" stroke="#1E1E1E"/>
+
+  <line x1="90" y1="100" x2="1190" y2="100" stroke="#1F1F1F"/>
+  <line x1="90" y1="220" x2="1190" y2="220" stroke="#1F1F1F"/>
+
+  <circle cx="110" cy="74" r="6" fill="#F5F5F5"/>
+  <circle cx="132" cy="74" r="6" fill="#7A7A7A"/>
+  <circle cx="154" cy="74" r="6" fill="#3F3F3F"/>
+
+  <text x="90" y="150" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700">
+    MURILO GABRIEL
+  </text>
+
+  <text x="90" y="188" fill="#BDBDBD" font-family="Courier New, monospace" font-size="20">
+    programador web  •  designer de interfaces
+  </text>
+
+  <text x="90" y="248" fill="#7A7A7A" font-family="Courier New, monospace" font-size="16">
+    desenvolvimento web, sistemas e experiências digitais com identidade
+  </text>
+
+  <rect x="920" y="124" width="220" height="56" rx="10" fill="#FFFFFF"/>
+  <text x="957" y="159" fill="#050505" font-family="Courier New, monospace" font-size="20" font-weight="700">
+    DevMurilo0
+  </text>
+</svg>
