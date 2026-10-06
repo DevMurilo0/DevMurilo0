@@ -1,132 +1,147 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="Banner do perfil de Murilo Gabriel"/>
+<img src="./assets/banner-dark.svg" width="100%" alt="Banner do perfil de Murilo Gabriel"/>
 
 <br>
 
-# Olá, eu sou Murilo Gabriel 👋
+# Murilo Gabriel
 
-### Programador Web & Designer de Interfaces
+### Programador Web • Designer de Interfaces
 
-`transformando ideias em sites, sistemas e experiências digitais com identidade.`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=700&color=F5F5F5&center=true&vCenter=true&width=760&lines=Desenvolvendo+sites%2C+sistemas+e+interfaces+com+identidade;Foco+em+experi%C3%AAncias+digitais+bonitas+e+funcionais;Construindo+projetos+reais+enquanto+evoluo+na+programa%C3%A7%C3%A3o" alt="Texto animado sobre Murilo Gabriel"/>
 
-[![Portfólio](https://img.shields.io/badge/PORTFÓLIO-murilogabriel.com.br-ff3655?style=for-the-badge&labelColor=0d1117)](https://murilogabriel.com.br)
-[![Devarity](https://img.shields.io/badge/DEVARITY-estúdio%20web-ff3655?style=for-the-badge&labelColor=0d1117)](https://devarity.com.br)
+<br><br>
+
+[![Portfólio](https://img.shields.io/badge/PORTFÓLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://murilogabriel.com.br)
+[![Devarity](https://img.shields.io/badge/DEVARITY-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://devarity.com.br)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/murilo_gabriell0/)
 
 </div>
 
 ---
 
-## `01 // SOBRE MIM`
+## Sobre mim
 
-<img align="right" width="300" src="./assets/about-profile.svg" alt="Arte abstrata do perfil de Murilo Gabriel"/>
+Sou **Murilo Gabriel**, programador focado em desenvolvimento web, design de interfaces e construção de sistemas com identidade própria.
 
-Sou **Murilo Gabriel**, programador focado em desenvolvimento web, interfaces e sistemas que resolvem problemas reais.
+Atualmente estou no **3º ano do Ensino Médio** e construindo minha trajetória para cursar **Sistemas de Informação**. Enquanto isso, desenvolvo projetos autorais, educacionais, institucionais e comerciais — passando pelo planejamento visual, desenvolvimento, publicação e evolução de cada produto.
 
-Hoje estou no **3º ano do Ensino Médio** e construindo minha trajetória para cursar **Sistemas de Informação**. Paralelamente, desenvolvo projetos autorais, educacionais, institucionais e comerciais — do planejamento visual ao código e à publicação.
-
-Também faço parte da **Devarity**, onde trabalho com desenvolvimento e design de sites para negócios e projetos que precisam de uma presença digital mais profissional.
-
-<br>
+Também faço parte da **Devarity**, trabalhando com desenvolvimento e design de experiências digitais para negócios e projetos.
 
 ```txt
 > foco atual: desenvolvimento web + sistemas
-> gosto de: interfaces com personalidade e boa experiência
+> gosto de: interfaces com personalidade, clareza e boa experiência
 > estudando: front-end, back-end e arquitetura de projetos
 > próximo passo: Sistemas de Informação
 ```
 
-<br clear="right"/>
-
 ---
 
-## `02 // AGORA`
+## Projetos em destaque
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b>◆ Devarity</b><br>
-      Desenvolvimento de websites e soluções digitais para negócios e projetos.
+      <h3>Entre Tempos</h3>
+      Revista eletrônica escolar com identidade visual própria, organização editorial e ferramentas para publicação de conteúdo.
+      <br><br>
+      <a href="https://www.entretempos.blog.br/">site</a> ·
+      <a href="https://github.com/DevMurilo0/EntreTempos">repositório</a>
     </td>
     <td width="50%" valign="top">
-      <b>◆ Entre Tempos</b><br>
-      Revista eletrônica escolar com conteúdo, gestão e identidade própria.
+      <h3>Portal EREMPAF</h3>
+      Portal digital da comunidade escolar, reunindo informações, páginas institucionais, séries, cardápio e comunicação.
+      <br><br>
+      <a href="https://portalerempaf.vercel.app/">site</a> ·
+      <a href="https://github.com/DevMurilo0/portal_erempaf">repositório</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>◆ ELO.UFRB</b><br>
-      Portal institucional com páginas, conteúdos e estrutura editorial.
+      <h3>Devarity</h3>
+      Estúdio digital voltado ao desenvolvimento de websites e sistemas sob medida para negócios, marcas e projetos.
+      <br><br>
+      <a href="https://devarity.com.br/">site</a>
     </td>
     <td width="50%" valign="top">
-      <b>◆ Sr. Navalha</b><br>
-      Experiência web para barbearia com foco em apresentação e agendamento.
+      <h3>ENEM Planner</h3>
+      Ferramenta web criada para organizar rotina, planejamento e recursos de estudo para o ENEM.
+      <br><br>
+      <a href="https://enemplanner.vercel.app/">site</a> ·
+      <a href="https://github.com/DevMurilo0/enemplanner">repositório</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Taiane Almeida</h3>
+      Experiência editorial criada para apresentar uma obra, sua autora e seu conteúdo em uma presença digital própria.
+      <br><br>
+      <a href="https://taianealmeida.com.br/">site</a> ·
+      <a href="https://github.com/DevMurilo0/taianealmeida">repositório</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Escola Peralta</h3>
+      Site institucional e portal escolar com autenticação, turmas, alunos, notas, frequência e administração.
+      <br><br>
+      <sub>React · TypeScript · Supabase · Cloudflare</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## `03 // TECNOLOGIAS`
+## Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,firebase,supabase,git,github,vscode,linux,vercel,cloudflare&perline=8" alt="Tecnologias usadas por Murilo Gabriel"/>
+![HTML](https://img.shields.io/badge/HTML-111111?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-111111?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-111111?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/REACT-111111?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/NEXT.JS-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/NODE.JS-111111?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+![Firebase](https://img.shields.io/badge/FIREBASE-111111?style=for-the-badge&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/SUPABASE-111111?style=for-the-badge&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-111111?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-111111?style=for-the-badge&logo=linux&logoColor=white)
+![Vercel](https://img.shields.io/badge/VERCEL-111111?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/CLOUDFLARE-111111?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 </div>
 
 ---
 
-## `04 // PROJETOS EM DESTAQUE`
+## Em movimento
 
 <div align="center">
 
-<a href="https://github.com/DevMurilo0/EntreTempos">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=DevMurilo0&repo=EntreTempos&hide_border=true&bg_color=0d1117&title_color=ff627a&text_color=8b949e&icon_color=ff3655" alt="Entre Tempos"/>
-</a>
-<a href="https://github.com/DevMurilo0/ELO.UFRB">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=DevMurilo0&repo=ELO.UFRB&hide_border=true&bg_color=0d1117&title_color=ff627a&text_color=8b949e&icon_color=ff3655" alt="ELO UFRB"/>
-</a>
+<img width="100%" src="https://raw.githubusercontent.com/DevMurilo0/DevMurilo0/output/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições de Murilo Gabriel"/>
 
-<a href="https://github.com/DevMurilo0/srnavalha">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=DevMurilo0&repo=srnavalha&hide_border=true&bg_color=0d1117&title_color=ff627a&text_color=8b949e&icon_color=ff3655" alt="Sr Navalha"/>
-</a>
-<a href="https://github.com/DevMurilo0/murilogabriel.com.br">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=DevMurilo0&repo=murilogabriel.com.br&hide_border=true&bg_color=0d1117&title_color=ff627a&text_color=8b949e&icon_color=ff3655" alt="Portfólio pessoal"/>
-</a>
+<br>
+
+<sub>atividade transformada em movimento.</sub>
 
 </div>
 
 ---
 
-## `05 // GITHUB`
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DevMurilo0&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&icon_color=ff3655&ring_color=ff3655&locale=pt-br" alt="Estatísticas do GitHub"/>
+### Contato
 
-<img height="165" src="https://streak-stats.demolab.com?user=DevMurilo0&hide_border=true&background=0D1117&stroke=30363D&ring=FF3655&fire=FF627A&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681&locale=pt_BR" alt="Sequência de contribuições"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevMurilo0&bg_color=0d1117&color=c9d1d9&line=ff3655&point=f0f6fc&area=true&area_color=7d1428&hide_border=true&custom_title=DevMurilo0%20%2F%20atividade" alt="Gráfico de atividade"/>
-
-</div>
-
----
-
-## `06 // CONTATO`
-
-<div align="center">
-
-[![Site](https://img.shields.io/badge/Site-0d1117?style=for-the-badge&logo=googlechrome&logoColor=ff3655)](https://murilogabriel.com.br)
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=ff3655)](https://www.instagram.com/murilo_gabriell0/)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=ff3655)](mailto:murilogabriel.souza0@gmail.com)
+[![Site](https://img.shields.io/badge/SITE-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://murilogabriel.com.br)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/murilo_gabriell0/)
+[![Gmail](https://img.shields.io/badge/GMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murilogabriel.souza0@gmail.com)
 
 <br>
 
 ```txt
-código é ferramenta. identidade é o que faz o projeto ser lembrado.
+código, identidade e intenção.
 ```
 
-<sub>`DevMurilo0 / sempre construindo a próxima versão.`</sub>
+<sub>DevMurilo0 • construindo uma presença digital sólida, projeto por projeto.</sub>
 
 </div>
